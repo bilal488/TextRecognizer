@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249945949954",
+    "firebase_url": "https://textrecognizer-804c7.firebaseio.com",
+    "project_id": "textrecognizer-804c7",
+    "storage_bucket": "textrecognizer-804c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249945949954:android:c7beecceeea445cf",
+        "android_client_info": {
+          "package_name": "com.example.bilal.textrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249945949954-vo8bgjf23i45ffgekrg1et65c2tt788s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bilal.textrecognizer",
+            "certificate_hash": "50bf3d1f1970e64c060e7ea534086ef5850f0660"
+          }
+        },
+        {
+          "client_id": "249945949954-lo70nprsa18tacj0la7ukdb3l9rkfl8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHhVPEXhDRL5vfZM0Vf0YUKwetD4-4Zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249945949954-lo70nprsa18tacj0la7ukdb3l9rkfl8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
